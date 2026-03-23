@@ -17,7 +17,7 @@ export default function Home() {
           {/* Social Links */}
           <div className="flex justify-center gap-4 mb-12">
             <a
-              href="https://github.com"
+              href="https://github.com/henryrussell"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-4 py-2 bg-slate-700 hover:bg-slate-600 text-white rounded-lg transition"
@@ -25,7 +25,7 @@ export default function Home() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/henry-russell/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-4 py-2 bg-slate-700 hover:bg-slate-600 text-white rounded-lg transition"
