@@ -53,7 +53,7 @@ export function Chatbot() {
         {messages.length === 0 && (
           <div className="text-center text-muted-foreground py-8">
             <p className="text-sm font-medium">Hello! I'm Henry's AI assistant.</p>
-            <p className="text-xs">Try asking me about his software experience at Lloyds, or his Electronic Engineering degree.</p>
+            <p className="text-xs">Try asking me about how he made this chatbot! Or find out about his Electronic Engineering degree, or his experience at Lloyds.</p>
           </div>
         )}
         
