@@ -43,21 +43,3 @@ Assisting with integrating the AI model into the NEXT.js application using the `
 ### Conversation Flow
 
 Helping to design and implement the conversation flow between the user and the AI model.
-
-## Contributions
-
-Contributions to this project are welcome, including:
-
-### AI Model Refining
-
-Refining the AI model's performance and accuracy through data analysis and machine learning techniques.
-
-### Feature Development
-
-Developing new features and functionality for the application, such as integrating with other AI models or services.
-
-### User Experience
-
-Improving the user experience and user interface, ensuring that the application is intuitive and easy to use.
-
-By contributing to this project, you'll be helping to create a platform that showcases AI's potential in career development and recruitment, while also advancing the capabilities of machine learning and natural language processing.
